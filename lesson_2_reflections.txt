@@ -6,3 +6,13 @@ Staging area is an intermediate area between working directory and repository. I
 
 How can you use the staging area to make sure you have one commit per logical change?
 By adding only those files to staging area that represent one logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches are helpful in trying out experimental features or additional changes that are not supposed to be a part of the main version.
+
+How do the diagrams help you visualize the branch structure?
+They are visually appealing to look at and understand what is happening with commits and where each branch goes when changes are saved.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+To make the changes made in both the branches appear in the final version or main version.
+It is represented in the way we do it traditionally to make it visually more appealing and easy to understand.
