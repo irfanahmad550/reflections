@@ -4,3 +4,5 @@ On initializing a repository with git init command, a new hidden directory gets 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is an intermediate area between working directory and repository. It is valuable because it can be used to collect files from working directory that are needed to be added to repository.
 
+How can you use the staging area to make sure you have one commit per logical change?
+By adding only those files to staging area that represent one logical change.
