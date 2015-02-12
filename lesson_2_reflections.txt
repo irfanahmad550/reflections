@@ -16,3 +16,7 @@ They are visually appealing to look at and understand what is happening with com
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 To make the changes made in both the branches appear in the final version or main version.
 It is represented in the way we do it traditionally to make it visually more appealing and easy to understand.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git's merging saves any unnecessary faults to creep in and helps in reduction of redundant code.
+Manual merges are fast but result in redundant or broken code.
