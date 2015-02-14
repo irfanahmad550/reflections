@@ -14,3 +14,8 @@ We use a fork to copy someone's repo who doesn't let us modify the original, we 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 When we have to go some place where we might not have an
 Internet connection it is a good idea to have most recent update at remote stored locally.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+By using a central repository such as a file server 
+and sending and receiving periodic updates from there.
+A central file server would be easier while distributed file sharing would be hard.
